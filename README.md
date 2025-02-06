@@ -6,6 +6,11 @@ This Android [Training Courses](https://developer.android.com/courses?_gl=1*1epz
 You'll start with the basics of Kotlin and gradually move on to building your own Android app using Android Studio. <br>
 The course offers hands-on learning, allowing you to see how your code translates into a functional app instantly. <br><br>
 
+- Learn [Kotlin](https://kotlinlang.org/)
+- Install [Android Stusio](https://developer.android.com/studio)
+- 
+- 
+
 <!--
 ### What You'll Learn:
 Setting up Android Studio and your development environment
