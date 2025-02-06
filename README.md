@@ -1,4 +1,4 @@
-# Android Training Courses
+# 👾Android Training Courses👾
 
 ## Still in Progress...
 
@@ -8,7 +8,8 @@ The course offers hands-on learning, allowing you to see how your code translate
 
 - Learn [Kotlin](https://kotlinlang.org/)
 - Install [Android Stusio](https://developer.android.com/studio)
-- 
+- Learn how to run your app on the Android Emulator
+- How to connect your Android device
 - 
 
 <!--
